@@ -3,7 +3,7 @@
 >[Mijoo Kim](https://sites.google.com/view/mijoo-kim/), and [Junseok Kwon](https://scholar.google.com/citations?user=lwsaTnEAAAAJ&hl=en)
  
 
-**📢Code will be released soon !**
+**📢Code and paper will be released soon !**
 
 ## Abstract
 <p align='center'>
