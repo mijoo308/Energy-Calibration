@@ -1,8 +1,9 @@
 # [ECCV 2024] Uncertainty Calibration with Energy Based Instance-wise Scaling in the Wild Dataset
- > Official implementation of "Uncertainty Calibration with Energy Based Instance-wise Scaling in the Wild Dataset (ECCV '24)"
+ > Official implementation of "[Uncertainty Calibration with Energy Based Instance-wise Scaling in the Wild Dataset](https://arxiv.org/abs/2407.12330) (ECCV '24)"
 >[Mijoo Kim](https://sites.google.com/view/mijoo-kim/), and [Junseok Kwon](https://scholar.google.com/citations?user=lwsaTnEAAAAJ&hl=en)
  
-[![arXiv](https://img.shields.io/badge/Arxiv-2407.12330-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2407.12330)\
+[![arXiv](https://img.shields.io/badge/Arxiv-2407.12330-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2407.12330)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijoo308%2FEnergy-Calibration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)\
 **📢Code will be released soon !**
 
 ## Abstract
